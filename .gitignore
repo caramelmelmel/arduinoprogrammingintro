@@ -2,9 +2,9 @@
 vscode-arduino
 
 #Exclude all the binary files 
-C_babies/helloworld.c
-C_babies/variables.c
-C_babies/datatypes.c
-C_babies/arrays.c
-C_babies/arrayerror.c
+C_babies/helloworld
+C_babies/variable
+C_babies/dtype
+C_babies/array
+C_babies/staticarr
 
