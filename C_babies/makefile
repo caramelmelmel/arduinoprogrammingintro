@@ -5,3 +5,5 @@ all : helloworld.c variables.c arrays.c staticarray.c
 	gcc arrays.c -o array
 	gcc staticarray.c -o staticarr
 	gcc pointers.c -o pointer
+	gcc if_else.c -o if
+	gcc nestedloop.c -o nestl
